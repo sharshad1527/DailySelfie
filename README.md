@@ -167,7 +167,7 @@ Copyright (c) 2025 Harshad Sundar
 ```
 
 Permission is granted to use, copy, modify, and distribute this software under the MIT terms.  
-See [LICENSE](LICENSE) for full text.
+See [LICENSE](LICENSE.md) for full text.
 
 ---
 
