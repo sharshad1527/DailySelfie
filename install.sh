@@ -44,7 +44,10 @@ Comment=Capture one webcam photo per day
 Exec=$RUNNER
 Terminal=false
 X-GNOME-Autostart-enabled=true
-OnlyShowIn=GNOME;
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=20
+X-MATE-Autostart-Delay=20
+X-KDE-autostart-after=panel
 EOF
 
 echo "→ Creating data folders"
